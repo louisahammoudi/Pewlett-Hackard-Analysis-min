@@ -7,7 +7,7 @@ Pewlett Hackard is a large company with several thousand employees that has been
 
 
 ## Results
-We created a table that holds all the titles of current employees who were born between January 1, 1952 and December 31, 1955. Our table contains the most recent titles of each employee. To determine who  is eligible to participate in a mentorship program, we created another table that holds the current employees who were born between January 1, 1965 and December 31, 1965.
+the major point of creating  a table that holds all the titles of current employees who were born between January 1, 1952 and December 31, 1955. Our table contains the most recent titles of each employee. To determine who  is eligible to participate in a mentorship program, we created another table that holds the current employees who were born between January 1, 1965 and December 31, 1965.
 ### The Number of Retiring Employees by Title
 - Our first table holds complex information from all retiring employees including titles from starting date till recent, along with employee numbers, first and last name.
 
